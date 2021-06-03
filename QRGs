@@ -2,15 +2,57 @@ Here is a description of the tasks learned during my first fortnight in the eRos
 
 <u>New Starters</u>
 
+
+
 <u>Bank Holiday Sickness</u>
+
+Excel report can be found in following directory (S: Nursing>Eroster>Annual Leave Entitlements>Annual Leave 2021-22).  The report has 3 tabs. 
+Total Deduction|Unavailability List|Posting Search. 
+
+<b>Total Deduction tab</b> used to copy and paste the statement into the note section
+<b>Unavailability List </b> can be filtered by Unit to show which staff members were off on the Bank Holiday.  This includes details for the date and number of contracted hours affected.
+
+Staff Number is copied into Person Search (Ribbon = Personnel, Person Search, Person Search)  This brings up the menu with Entitlements.  A desktop calculator is used to input the (Entitlement - Contracted Hours) and the new Annual Leave Entitlement for the staff member.
+
+
+To show the Entitlements have been processed the report is then highlighted GREEN.
+
+
+
 
 <u>Covid 19 Risk Assessment</u>
 
+
+
 <u>Resetting Passwords</u>
+To check: In contacts section Q.Is there an email address saved to the record.  If not, then the user account cannot be reset and an email will need to be sent to clarify the email details.
+
+Ribbon = Admin>User Account>User Account. Report can be used to search for person by Surname.  There is another report which is located in the same area of HealthRoster 
+
 
 <u>Help Desk</u>
 
+
+
 <u>Joiners List</u>
+
+Destination Directory = S: (Nursing>Eroster>Reports>Reports>New Starter> 2021 New Starter>)  The excel report is used to look up the person's details in HealthRoster.  The report is then highlighted Red, Green, Amber or Blue to reflect the following status.
+
+In HealthRoster open the following tabs:
+
+- Tab 1 <b>Joiners and Leavers Report</b>: Ribbon = Personnel, Person Search, Joiners & Leavers (Icon is stick person). Click circle button to "BOTH" and change the reporting time to Start of time to End of Time. 
+- Tab 2: <b>Staff Missing In HealthRoster</b> Ribbon = Gateway, Missing Staff Records, Staff Missing In HealthRoster
+
+- Tab 3: <b></b>
+
+
+
+Add accrual plans to main details + posting.
+
+Tips when editing the report Bank postings can automatically be assigned 'N|N ' in the left most columns.
+
+Feedback for Asha:
+
 
 
 
