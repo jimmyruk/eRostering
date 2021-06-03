@@ -21,6 +21,21 @@ To show the Entitlements have been processed the report is then highlighted GREE
 
 
 <u>Covid 19 Risk Assessment</u>
+Folder Directory Location = S://Nursing/eroster/reports/COVID-19/Risk Assessments.
+
+Report is run from HealthRoster Ribbon = Personnel/Person search/Person with a skill/
+
+Cluster = change to "Special" , skill is left as "Any". Search, Extract (Opens Excel report)
+
+From Excel Filter Skill Drop down-box SELECT all skills that are NOT "Local Risk Assessments v3, v4, or v5".
+
+Delete these skill groups to be left with only Local Risk Assessment V3, Local Risk Assessment V4 and Local Risk Assessment V5. 
+
+Take the filter off and save to the folder at the beginning.
+
+Important Note
+Only 1 x 'Live' Risk Assessment is allowed per each staff member.
+ Therefore, old RA must be ended the day before the NEW Risk Assessment begins (for continuity).
 
 
 
